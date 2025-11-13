@@ -22,7 +22,7 @@ Make sure you have:
 ## Installation & Setup Guide
 
 ### Step 1: Get the Plugin Files
-Download the latest `VoiceMode.zip` release from the project's page and extract its contents.
+Download the latest `VoiceMode.zip` release from the [project's release page](https://github.com/brthor/g-assist-plugin-voice-mode/releases) and extract its contents.
 
 ### Step 2: Install the Plugin
 1. Open File Explorer and navigate to the G-Assist plugins directory. If it doesn't exist, create it. The path is:

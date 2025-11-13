@@ -19,7 +19,7 @@ set PYTHON=python3
 set VENV=.venv
 set DIST_DIR=dist
 :: Replace 'plugin' with the name of your plugin
-set PLUGIN_DIR=%DIST_DIR%\voicemode
+set PLUGIN_DIR=%DIST_DIR%\v
 set NVIDIA_PLUGIN_DIR=C:\ProgramData\NVIDIA Corporation\nvtopps\rise\plugins\v
 
 if exist %VENV% (
