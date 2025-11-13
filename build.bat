@@ -42,7 +42,12 @@ if exist %VENV% (
 	if exist config.json (
 		copy /y config.json "%PLUGIN_DIR%\config.json"
 		echo config.json copied successfully.
-	) 
+	)
+
+	if exist gemini.key (
+		copy /y gemini.key "%PLUGIN_DIR%\gemini.key"
+		echo gemini.key copied successfully.
+	)
 
 	call %VENV%\Scripts\deactivate.bat
 	echo Executable can be found in the "%PLUGIN_DIR%" directory
