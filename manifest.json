@@ -1,0 +1,25 @@
+{
+  "manifestVersion": 1,
+  "executable": "./g-assist-plugin-voicemode.exe",
+  "persistent": true,
+  "passthrough": true,
+  "name": "Voice Mode",
+  "description": "Adds high quality voice responses to any query.",
+  "functions": [
+    {
+      "name": "voice_mode",
+      "description": "Answers the user's query and add audio playback of speech voiceover to the response.",
+      "tags": [
+        "voice",
+        "tts",
+        "assistant"
+      ],
+      "properties": {
+        "input": {
+          "type": "string",
+          "description": "Optional user request. The plugin will also fall back to the chat context when this is empty."
+        }
+      }
+    }
+  ]
+}
