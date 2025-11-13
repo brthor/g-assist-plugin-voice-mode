@@ -1,4 +1,4 @@
-![](./ cover-art.jpg?raw=true)
+![Voice Mode](cover-art.jpg?raw=true "Voice Mode")
 
 # Voice Mode Plugin for G-Assist
 
