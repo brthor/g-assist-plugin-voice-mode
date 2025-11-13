@@ -1,3 +1,5 @@
+![](./ cover-art.jpg?raw=true)
+
 # Voice Mode Plugin for G-Assist
 
 Bring your G-Assist experience to life with natural, high-quality voice responses. 
